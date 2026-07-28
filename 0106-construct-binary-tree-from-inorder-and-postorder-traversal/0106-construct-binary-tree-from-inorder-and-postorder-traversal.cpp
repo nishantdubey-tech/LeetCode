@@ -17,16 +17,16 @@ public:
         map<int,int>hm;
         for(int i=0;i<inorder.size();i++)
             hm[inorder[i]]=i;
-            return buildTreepostin(inorder,0,inorder.size()-1,postorder,0,postorder.size()-1,hm);
-        }
-        TreeNode* buildTreepostin(vector<int>& inorder,int is,int ie, vector<int>& postorder,int ps,int pe,map<int,int>&hm) {
-            if(ps>pe||is>ie)return NULL;
-            TreeNode*root=new TreeNode(postorder[pe]);
-            int inroot=hm[postorder[pe]];
-            int numsleft=inroot-is;
-            root->left=buildTreepostin(inorder,is,inroot-1,postorder,ps,ps+numsleft-1,hm);
-            root->right=buildTreepostin(inorder,inroot+1,ie,postorder,ps+numsleft,pe-1,hm);
-            return root;
-        
-    }
+        return buildtreepostin(inorder,0,inorder.size()-1,postorder,0,postorder.size()-1,hm);
+}
+TreeNode* buildtreepostin(vector<int>& inorder,int is,int ie ,vector<int>& postorder,int ps,int pe,map<int,int>&hm){
+    if(ps>pe||is>ie)return NULL;
+    TreeNode* root=new TreeNode(postorder[pe]);
+    int inroot=hm[postorder[pe]];
+    int numsleft=inroot-is;
+    root->left=buildtreepostin(inorder,is,inroot-1,postorder,ps,ps+numsleft-1,hm);
+    root->right=buildtreepostin(inorder,inroot+1,ie,postorder,ps+numsleft,pe-1,hm);
+    return root;
+}
+    
 };
