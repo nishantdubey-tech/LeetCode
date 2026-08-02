@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nishantdubey-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -188,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
