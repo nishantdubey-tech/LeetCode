@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
