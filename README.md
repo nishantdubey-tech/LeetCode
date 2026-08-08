@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nishantdubey-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishantdubey-tech/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
