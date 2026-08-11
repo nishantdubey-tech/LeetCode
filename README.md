@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/nishantdubey-tech/LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/nishantdubey-tech/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
