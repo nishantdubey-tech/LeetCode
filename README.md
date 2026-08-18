@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nishantdubey-tech/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nishantdubey-tech/LeetCode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
 | [0904-fruit-into-baskets](https://github.com/nishantdubey-tech/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nishantdubey-tech/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/nishantdubey-tech/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nishantdubey-tech/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
@@ -302,9 +305,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
