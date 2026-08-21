@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nishantdubey-tech/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nishantdubey-tech/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishantdubey-tech/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nishantdubey-tech/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 ## Memoization
 |  |
 | ------- |
