@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantdubey-tech/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/nishantdubey-tech/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nishantdubey-tech/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/nishantdubey-tech/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/1092-shortest-common-supersequence) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
