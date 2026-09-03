@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishantdubey-tech/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0686-repeated-string-match](https://github.com/nishantdubey-tech/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantdubey-tech/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/nishantdubey-tech/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
@@ -420,4 +422,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1106-parsing-a-boolean-expression](https://github.com/nishantdubey-tech/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nishantdubey-tech/LeetCode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nishantdubey-tech/LeetCode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nishantdubey-tech/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
