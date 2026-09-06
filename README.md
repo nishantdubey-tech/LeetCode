@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/nishantdubey-tech/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nishantdubey-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nishantdubey-tech/LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/nishantdubey-tech/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/nishantdubey-tech/LeetCode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nishantdubey-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -333,11 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/nishantdubey-tech/LeetCode/tree/master/1048-longest-string-chain) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nishantdubey-tech/LeetCode/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nishantdubey-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantdubey-tech/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
