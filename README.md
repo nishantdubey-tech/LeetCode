@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nishantdubey-tech/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishantdubey-tech/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nishantdubey-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishantdubey-tech/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2484-count-palindromic-subsequences](https://github.com/nishantdubey-tech/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 ## Memoization
 |  |
@@ -540,12 +541,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/nishantdubey-tech/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishantdubey-tech/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nishantdubey-tech/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishantdubey-tech/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nishantdubey-tech/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nishantdubey-tech/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishantdubey-tech/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -582,9 +585,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/nishantdubey-tech/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishantdubey-tech/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nishantdubey-tech/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishantdubey-tech/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/nishantdubey-tech/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
