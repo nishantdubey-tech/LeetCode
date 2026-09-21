@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nishantdubey-tech/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/nishantdubey-tech/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/nishantdubey-tech/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nishantdubey-tech/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/nishantdubey-tech/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nishantdubey-tech/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -621,4 +623,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nishantdubey-tech/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
