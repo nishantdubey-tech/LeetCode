@@ -10,27 +10,33 @@
  * };
  */
 class Solution {
-public:
- void inorderTraversal(TreeNode* root,int&k,int&ans) {
-          
-          if(root==0){
+private:
+    int count = 0;
+    int result = -1;
+
+    void inorder(TreeNode* root, int k) {
+        // Base case: if node is null or we've already found the result, stop.
+        if (root == nullptr || result != -1) {
             return;
-          }
-            inorderTraversal(root->left, k,ans);
-            k--;
-            if(k==0){
-                ans=root->val;
-                return;
-            }
-            inorderTraversal(root->right,k,ans);
+        }
         
+        // Traverse left subtree
+        inorder(root->left, k);
+        
+        // Process current node
+        count++;
+        if (count == k) {
+            result = root->val;
+            return; 
+        }
+        
+        // Traverse right subtree
+        inorder(root->right, k);
     }
+
+public:
     int kthSmallest(TreeNode* root, int k) {
-         int ans=0;
-        inorderTraversal(root, k,ans);
-      
-      
-        
-        return ans;
+        inorder(root, k);
+        return result;
     }
 };
