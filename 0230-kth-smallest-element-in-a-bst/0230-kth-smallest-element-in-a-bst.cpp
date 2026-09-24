@@ -11,19 +11,26 @@
  */
 class Solution {
 public:
- void inorderTraversal(TreeNode* root, vector<int>& values) {
-        if (root) {
-            inorderTraversal(root->left, values);
-            values.push_back(root->val);
-            inorderTraversal(root->right, values);
-        }
+ void inorderTraversal(TreeNode* root,int&k,int&ans) {
+          
+          if(root==0){
+            return;
+          }
+            inorderTraversal(root->left, k,ans);
+            k--;
+            if(k==0){
+                ans=root->val;
+                return;
+            }
+            inorderTraversal(root->right,k,ans);
+        
     }
     int kthSmallest(TreeNode* root, int k) {
-         vector<int> values;
-        inorderTraversal(root, values);
-        int kth_smallest = values[k-1];
+         int ans=0;
+        inorderTraversal(root, k,ans);
+      
       
         
-        return kth_smallest;
+        return ans;
     }
 };
