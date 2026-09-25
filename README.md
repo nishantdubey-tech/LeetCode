@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nishantdubey-tech/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/nishantdubey-tech/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nishantdubey-tech/LeetCode/tree/master/0050-powx-n) |
 | [1106-parsing-a-boolean-expression](https://github.com/nishantdubey-tech/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Z Algorithm
 |  |
