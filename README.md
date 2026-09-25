@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishantdubey-tech/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/nishantdubey-tech/LeetCode/tree/master/0130-surrounded-regions) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nishantdubey-tech/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishantdubey-tech/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
