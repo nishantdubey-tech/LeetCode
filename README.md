@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/nishantdubey-tech/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nishantdubey-tech/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/nishantdubey-tech/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nishantdubey-tech/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishantdubey-tech/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/nishantdubey-tech/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nishantdubey-tech/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishantdubey-tech/LeetCode/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/nishantdubey-tech/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nishantdubey-tech/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
