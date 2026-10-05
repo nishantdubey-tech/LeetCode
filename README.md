@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/nishantdubey-tech/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nishantdubey-tech/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nishantdubey-tech/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nishantdubey-tech/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nishantdubey-tech/LeetCode/tree/master/0057-insert-interval) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -713,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nishantdubey-tech/LeetCode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
