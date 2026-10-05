@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nishantdubey-tech/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nishantdubey-tech/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nishantdubey-tech/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nishantdubey-tech/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishantdubey-tech/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -525,10 +527,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
 | ------- |
