@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishantdubey-tech/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nishantdubey-tech/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishantdubey-tech/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nishantdubey-tech/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nishantdubey-tech/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nishantdubey-tech/LeetCode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nishantdubey-tech/LeetCode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0931-minimum-falling-path-sum) |
