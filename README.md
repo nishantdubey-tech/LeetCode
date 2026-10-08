@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nishantdubey-tech/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nishantdubey-tech/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/nishantdubey-tech/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nishantdubey-tech/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nishantdubey-tech/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishantdubey-tech/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nishantdubey-tech/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nishantdubey-tech/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/nishantdubey-tech/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishantdubey-tech/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -735,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nishantdubey-tech/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nishantdubey-tech/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
