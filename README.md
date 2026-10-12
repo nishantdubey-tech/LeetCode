@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishantdubey-tech/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/nishantdubey-tech/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nishantdubey-tech/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2484-count-palindromic-subsequences](https://github.com/nishantdubey-tech/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 ## Counting
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/nishantdubey-tech/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nishantdubey-tech/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/nishantdubey-tech/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Pigeonhole Principle
 |  |
 | ------- |
