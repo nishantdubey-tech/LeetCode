@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishantdubey-tech/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nishantdubey-tech/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantdubey-tech/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishantdubey-tech/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/nishantdubey-tech/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishantdubey-tech/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/nishantdubey-tech/LeetCode/tree/master/0051-n-queens) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/nishantdubey-tech/LeetCode/tree/master/0051-n-queens) |
 ## Longest Increasing Subsequence
 |  |
@@ -779,4 +784,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nishantdubey-tech/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
