@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nishantdubey-tech/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/nishantdubey-tech/LeetCode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/nishantdubey-tech/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nishantdubey-tech/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nishantdubey-tech/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/nishantdubey-tech/LeetCode/tree/master/0721-accounts-merge) |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/nishantdubey-tech/LeetCode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nishantdubey-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nishantdubey-tech/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/nishantdubey-tech/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nishantdubey-tech/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
@@ -788,4 +793,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
