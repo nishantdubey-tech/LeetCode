@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nishantdubey-tech/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nishantdubey-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishantdubey-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/nishantdubey-tech/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishantdubey-tech/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nishantdubey-tech/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Sorting
 |  |
 | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nishantdubey-tech/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishantdubey-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Knapsack Problem
 |  |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nishantdubey-tech/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Pigeonhole Principle
 |  |
 | ------- |
