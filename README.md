@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nishantdubey-tech/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/nishantdubey-tech/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nishantdubey-tech/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishantdubey-tech/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nishantdubey-tech/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nishantdubey-tech/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -832,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nishantdubey-tech/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
