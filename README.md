@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nishantdubey-tech/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/nishantdubey-tech/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nishantdubey-tech/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nishantdubey-tech/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nishantdubey-tech/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nishantdubey-tech/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/nishantdubey-tech/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nishantdubey-tech/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/nishantdubey-tech/LeetCode/tree/master/0721-accounts-merge) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/nishantdubey-tech/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nishantdubey-tech/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nishantdubey-tech/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/nishantdubey-tech/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantdubey-tech/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantdubey-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nishantdubey-tech/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nishantdubey-tech/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/nishantdubey-tech/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nishantdubey-tech/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
