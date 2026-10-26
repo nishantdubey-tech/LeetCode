@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishantdubey-tech/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/nishantdubey-tech/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/nishantdubey-tech/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
