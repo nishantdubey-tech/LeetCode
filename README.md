@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nishantdubey-tech/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nishantdubey-tech/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2104-sum-of-subarray-ranges](https://github.com/nishantdubey-tech/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishantdubey-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nishantdubey-tech/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nishantdubey-tech/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nishantdubey-tech/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0494-target-sum) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nishantdubey-tech/LeetCode/tree/master/0204-count-primes) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
