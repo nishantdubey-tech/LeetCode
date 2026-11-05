@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/nishantdubey-tech/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/nishantdubey-tech/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/nishantdubey-tech/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nishantdubey-tech/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nishantdubey-tech/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/nishantdubey-tech/LeetCode/tree/master/0198-house-robber) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nishantdubey-tech/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/nishantdubey-tech/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/nishantdubey-tech/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nishantdubey-tech/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishantdubey-tech/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/nishantdubey-tech/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nishantdubey-tech/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/nishantdubey-tech/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nishantdubey-tech/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nishantdubey-tech/LeetCode/tree/master/0242-valid-anagram) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/nishantdubey-tech/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nishantdubey-tech/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/nishantdubey-tech/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nishantdubey-tech/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nishantdubey-tech/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/nishantdubey-tech/LeetCode/tree/master/0198-house-robber) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishantdubey-tech/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/nishantdubey-tech/LeetCode/tree/master/0139-word-break) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -938,4 +943,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nishantdubey-tech/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nishantdubey-tech/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nishantdubey-tech/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
