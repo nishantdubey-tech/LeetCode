@@ -1,35 +1,48 @@
 class Solution {
 public:
-
-    int largestRectangleArea(vector<int>& heights) {
-        stack<int> st;
-        int maxArea = 0;
-        heights.push_back(0);
-        for (int i = 0; i < heights.size(); i++) {
-            while (!st.empty() && heights[i] < heights[st.top()]) {
-                int height = heights[st.top()];
-                st.pop();
-                int width = st.empty() ? i : i - st.top() - 1;
-                maxArea = max(maxArea, height * width);
-            }
-            st.push(i);
-        }
-
-        return maxArea;
-    }
     int maximalRectangle(vector<vector<char>>& matrix) {
-        if (matrix.empty()) return 0;
-        int m = matrix[0].size();
-        vector<int> height(m, 0);
+        if (matrix.empty() || matrix[0].empty()) return 0;
+        
+        int rows = matrix.size();
+        int cols = matrix[0].size();
+        
+        vector<int> height(cols, 0);
+        vector<int> left(cols, 0);
+        vector<int> right(cols, cols);
+        
         int maxArea = 0;
-        for (auto& row : matrix) {
-            for (int i = 0; i < m; i++) {
-                if (row[i] == '1') height[i]++;
-                else height[i] = 0;
+        
+        for (int i = 0; i < rows; i++) {
+            int curLeft = 0, curRight = cols;
+            
+            for (int j = 0; j < cols; j++) {
+                if (matrix[i][j] == '1') {
+                    height[j]++;
+                } else {
+                    height[j] = 0;
+                }
             }
-            maxArea = max(maxArea, largestRectangleArea(height));
+            for (int j = 0; j < cols; j++) {
+                if (matrix[i][j] == '1') {
+                    left[j] = max(left[j], curLeft);
+                } else {
+                    left[j] = 0;
+                    curLeft = j + 1;
+                }
+            }
+            for (int j = cols - 1; j >= 0; j--) {
+                if (matrix[i][j] == '1') {
+                    right[j] = min(right[j], curRight);
+                } else {
+                    right[j] = cols;
+                    curRight = j;
+                }
+            }
+            for (int j = 0; j < cols; j++) {
+                maxArea = max(maxArea, (right[j] - left[j]) * height[j]);
+            }
         }
-
+        
         return maxArea;
     }
 };
