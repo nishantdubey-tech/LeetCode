@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nishantdubey-tech/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/nishantdubey-tech/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/nishantdubey-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nishantdubey-tech/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/nishantdubey-tech/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishantdubey-tech/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nishantdubey-tech/LeetCode/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nishantdubey-tech/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/nishantdubey-tech/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nishantdubey-tech/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/nishantdubey-tech/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Pigeonhole Principle
 |  |
