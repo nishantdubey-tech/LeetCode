@@ -15,22 +15,19 @@ private:
     int result = -1;
 
     void inorder(TreeNode* root, int k) {
-        // Base case: if node is null or we've already found the result, stop.
+       
         if (root == nullptr || result != -1) {
             return;
         }
         
-        // Traverse left subtree
         inorder(root->left, k);
         
-        // Process current node
         count++;
         if (count == k) {
             result = root->val;
             return; 
         }
         
-        // Traverse right subtree
         inorder(root->right, k);
     }
 
